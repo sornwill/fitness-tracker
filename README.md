@@ -19,8 +19,9 @@
     
 ## Description 
 This is a fitness application that creates exercises upon the users inputs. 
-A user will be able to select either a resistance or a cardio workout and keep track of it.
-There is a dashboard showing statistics of all workouts all together as well as displaying the last workout that has been done.
+A user will be able to select either a resistance (Name of activity, Weight, Sets, Duration) or a cardio (Name of activity, Distance, Duration) workout and keep track of it.
+There is a dashboard showing statistics of all workouts all together as well as displaying the last workout that has been done. Then stores all of the data into MongoDB.
+
 
 ### URL(s)
 [Repository](https://github.com/sornwill/fitness-tracker)
