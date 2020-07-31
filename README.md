@@ -23,8 +23,8 @@ A user will be able to select either a resistance or a cardio workout and keep t
 There is a dashboard showing statistics of all workouts all together as well as displaying the last workout that has been done.
 
 ### URL
-https://github.com/sornwill/fitness-tracker
-https://ws-fitness-tracker.herokuapp.com/?id=5f23857a1307b10017cc7668
+[Repository](https://github.com/sornwill/fitness-tracker)
+[Heroku Deployed Link](https://ws-fitness-tracker.herokuapp.com/?id=5f23857a1307b10017cc7668)
       
 ## Screenshots
 ![screenshots](./public/screenshots/add.png)
