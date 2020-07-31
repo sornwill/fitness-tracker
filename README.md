@@ -22,8 +22,9 @@ This is a fitness application that creates exercises upon the users inputs.
 A user will be able to select either a resistance or a cardio workout and keep track of it.
 There is a dashboard showing statistics of all workouts all together as well as displaying the last workout that has been done.
 
-### URL
+### URL(s)
 [Repository](https://github.com/sornwill/fitness-tracker)
+|
 [Heroku Deployed Link](https://ws-fitness-tracker.herokuapp.com/?id=5f23857a1307b10017cc7668)
       
 ## Screenshots
